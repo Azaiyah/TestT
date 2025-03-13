@@ -11,3 +11,12 @@ Console.WriteLine("Hello, World!");
 }
 
 TestMethod();
+
+int TestMethod2(int st)
+{
+    int x;
+    x = st * 2; 
+    return x; 
+}
+
+Console.WriteLine(TestMethod2(5));

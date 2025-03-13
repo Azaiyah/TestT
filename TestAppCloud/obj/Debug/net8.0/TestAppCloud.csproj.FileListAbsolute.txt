@@ -12,3 +12,4 @@
 /workspace/TestT/TestAppCloud/obj/Debug/net8.0/TestAppCloud.pdb
 /workspace/TestT/TestAppCloud/obj/Debug/net8.0/TestAppCloud.genruntimeconfig.cache
 /workspace/TestT/TestAppCloud/obj/Debug/net8.0/ref/TestAppCloud.dll
+/workspace/TestT/TestAppCloud/obj/Debug/net8.0/TestAppCloud.sourcelink.json
