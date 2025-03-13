@@ -1,0 +1,14 @@
+/workspace/TestT/TestAppCloud/bin/Debug/net8.0/TestAppCloud
+/workspace/TestT/TestAppCloud/bin/Debug/net8.0/TestAppCloud.deps.json
+/workspace/TestT/TestAppCloud/bin/Debug/net8.0/TestAppCloud.runtimeconfig.json
+/workspace/TestT/TestAppCloud/bin/Debug/net8.0/TestAppCloud.dll
+/workspace/TestT/TestAppCloud/bin/Debug/net8.0/TestAppCloud.pdb
+/workspace/TestT/TestAppCloud/obj/Debug/net8.0/TestAppCloud.GeneratedMSBuildEditorConfig.editorconfig
+/workspace/TestT/TestAppCloud/obj/Debug/net8.0/TestAppCloud.AssemblyInfoInputs.cache
+/workspace/TestT/TestAppCloud/obj/Debug/net8.0/TestAppCloud.AssemblyInfo.cs
+/workspace/TestT/TestAppCloud/obj/Debug/net8.0/TestAppCloud.csproj.CoreCompileInputs.cache
+/workspace/TestT/TestAppCloud/obj/Debug/net8.0/TestAppCloud.dll
+/workspace/TestT/TestAppCloud/obj/Debug/net8.0/refint/TestAppCloud.dll
+/workspace/TestT/TestAppCloud/obj/Debug/net8.0/TestAppCloud.pdb
+/workspace/TestT/TestAppCloud/obj/Debug/net8.0/TestAppCloud.genruntimeconfig.cache
+/workspace/TestT/TestAppCloud/obj/Debug/net8.0/ref/TestAppCloud.dll
