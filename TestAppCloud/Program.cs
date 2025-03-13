@@ -20,3 +20,10 @@ int TestMethod2(int st)
 }
 
 Console.WriteLine(TestMethod2(5));
+
+
+
+// git add .
+// git commit -m "text"
+// git push origin main
+
